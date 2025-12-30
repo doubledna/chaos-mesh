@@ -1626,6 +1626,8 @@ spec:
             - !!str 31766
             - --grpc-port
             - !!str 31767
+            - --toda-startup-timeout
+            - !!str 2000
             - --pprof
             - --runtime-socket-path
             - /host-run/${socketName}

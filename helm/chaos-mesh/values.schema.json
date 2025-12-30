@@ -133,6 +133,9 @@
                 "socketPath": {
                     "type": "string"
                 },
+                "todaStartupTimeout": {
+                    "type": "integer"
+                },
                 "tolerations": {
                     "type": "array"
                 },
